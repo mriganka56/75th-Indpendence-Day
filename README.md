@@ -1,6 +1,6 @@
 This Page is hosted at:- https://mriganka56.github.io/75th-Indpendence-Day/
-<br>
-![image](https://user-images.githubusercontent.com/93525552/185730848-4041660a-3945-4a3b-874a-04fb47272b72.png)
-<br>
+<br><hr>
+![image](https://user-images.githubusercontent.com/93525552/185730945-c8608034-10c9-4da4-930c-8c0e3309d2b0.png)
+<br><hr>
 The output of the Page shall look like the file attached.
 
